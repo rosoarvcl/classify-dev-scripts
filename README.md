@@ -22,7 +22,7 @@ To save your custom script globally and make it accessible from anywhere on your
 
     `classify_php`
 
-## Adding scripts for Docker PHP container
+## Adding scripts to Docker PHP container
 
 - Create the script
 - Make the script executable
