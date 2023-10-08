@@ -1,8 +1,10 @@
 # Getting started
 
 ```
-cd ~/Projects/ClassifyLearning
-git clone git@github.com:rosoarvcl/cl-scripts.git
+cd ~/Projects
+mkdir scripts
+cd scripts
+git@github.com:rosoarvcl/classify-dev-scripts.git
 ```
 
 ## Local
