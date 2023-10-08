@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Running classify addon-export..."
+cd ../main-app/scripts
+bash addon-export.sh

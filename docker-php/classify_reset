@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Running classify import-reset and system-god-reset..."
+cd ../main-app/public
+php cmd.php classify:import-reset
+php cmd.php classify:system-god-reset
+echo "Done."

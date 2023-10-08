@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Starting platform-update-dev"
+cd ../main-app/scripts
+bash platform-update-dev.sh
